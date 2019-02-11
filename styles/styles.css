@@ -1,0 +1,24 @@
+/*
+This is comment ,,,style="color:white;background-color: #FF5733;"
+Selector:
+    Element selecter: name of element(h1,li,)
+    Class selecter: .name of class
+    ID selecter: #ID
+*/
+h1,li {
+    color: green;
+    background-color: #FF5733;
+}
+.width100 {
+    width:100%;
+}
+.width50 {
+    width:50%;
+}
+.width25 {
+    width:25%;
+}
+#best {
+    border: 5px solid;
+    border-color: black;
+}
